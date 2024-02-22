@@ -5,6 +5,7 @@
 
 document.getElementById("myH1").textContent = `Hello` ;
 document.getElementById("my-P").textContent =`I like pizza!`;
+document.getElementById("my-web").textContent='i love Pilau';
 
 //This is a comment
 
