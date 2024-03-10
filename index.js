@@ -27,13 +27,14 @@ is used in multiline comments
 //console.log(`The price is ${price}`);
 
 
-//let firstName = "Bro";
-//let favoriteFood = "pizza";
-//let email = "Bro@email.com";
+let firstName = "Bro";
+let favoriteFood = "pizza";
+let email = "Bro@email.com";
+let number = "2",
 
-//console.log(typeof firstName);
-//console.log(`Your name is ${firstName}`);
-//console.log(`You like ${favoriteFood}`);
-//console.log(`Your email is ${email}`);
-
-let online 
+console.log(typeof firstName);
+console.log(`Your name is ${firstName}`);
+console.log(`You like ${favoriteFood}`);
+console.log(`Your email is ${email}`);
+console.log(typeof number);
+console.log(`you are number ${number}`);
